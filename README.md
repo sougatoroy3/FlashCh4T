@@ -26,7 +26,7 @@ The user needs to first sign up in order to use the app. After that you can use 
 * MVC
 * Firebase
 
-# Steps to Run
+# 🧑‍💻 Steps to Run
 Clone the folder and run it from the swift playgrounds app.
 You may even use XCode or VSCode to run it.
 
